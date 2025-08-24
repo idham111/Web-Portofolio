@@ -1,7 +1,7 @@
 # Web-Portofolio
 Penjelasan Singkat Proyek
 
-Landing page portofolio yang menampilkan data diri (nama, foto, deskripsi singkat), riwayat pendidikan, pengalaman , dan kontak (telepon & email).
+Landing page portofolio yang menampilkan data diri (nama, foto, deskripsi singkat), riwayat pendidikan, pengalaman/kegiatan , dan kontak (telepon & email).
 
 Teknologi yang Digunakan
 
